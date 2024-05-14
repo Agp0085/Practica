@@ -1,6 +1,6 @@
 public class Enemigo {
     //Prueba de comentario
-    private String nombre;
+    private int nombre;
     private int puntosAtaque;
     
 
